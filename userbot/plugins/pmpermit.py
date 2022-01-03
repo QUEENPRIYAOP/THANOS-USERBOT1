@@ -20,7 +20,7 @@ PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
 REBELPIC = (
     PMPERMIT_PIC
     if PMPERMIT_PIC
-    else "https://telegra.ph/file/ba5bc78cdf6fbc65e1cce.jpg"
+    else "https://telegra.ph/file/70657821f00fc1fb8e539.jpg"
 )
 PM_WARNS = {}
 PREV_REPLY_MESSAGE = {}
@@ -28,12 +28,12 @@ myid = bot.uid
 h1m4n5hu0p = (
     str(CUSTOM_PMPERMIT)
     if CUSTOM_PMPERMIT
-    else "**YOU HAVE TRESPASSED TO MY MASTERS INBOX** \n THIS IS ILLEGAL AND REGARDED AS CRIME"
+    else "**YOU HAVE TRESPASSED TO MY HALP GF INBOX** \n THIS IS ILLEGAL AND REGARDED AS CRIME"
 )
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "ThanosBot User"
-USER_BOT_WARN_ZERO = "**You were spamming my sweet master's inbox, henceforth you have been blocked by my master's ThanosBot.**\n__Now GTFO, i'm busy__"
+USER_BOT_WARN_ZERO = "**You were spamming my sweet HALP GF inbox, henceforth you have been blocked by my RISHABH.**\n__Now GTFO, i'm busy__"
 USER_BOT_NO_WARN = (
-    "Hello, This is **ThanosBot Ultra Private Security Protocol⚠️**.\n"
+    "Hello, This is **MY HALP BABY Ultra Private Security Protocol⚠️**.\n"
     f"This is my master {DEFAULTUSER}'s Inbox\n"
     f"\n**{h1m4n5hu0p}**\n\n"
     "To start a valid conversation\n🔱Register Your Request!🔱\nSend `/start` To Register Your Request\nHopefully u will get a reply🔥"
