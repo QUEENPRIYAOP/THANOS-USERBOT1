@@ -14,14 +14,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Crystal User"
 @borg.on(sudo_cmd(pattern="ping$", allow_sudo=True))
 async def _(event):
     text = f"""
-┏━━━┓━━━━━━━━━┓
-┃┏━┓┃━━━━━━━━━┃
-┃┗━┛┃━━┓━┓━━━┓┃
-┃┏━━┛┏┓┃┏┓┓┏┓┃┛
-┃┃━━━┗┛┃┃┃┃┗┛┃┓
-┗┛━━━━━┛┛┗┛━┓┃┛
-━━━━━━━━━━━━┛┃━
-━━━━━━━━━━━━━┛━
+https://telegra.ph/file/3b65089167bc7971c2c15.jpg
 __thanos-Bot__ is **ON!**ツ
 •My Master→ {DEFAULTUSER}
 ↓||•Ms•||↓
