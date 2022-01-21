@@ -24,10 +24,10 @@ HOT = bot.uid
 
 edit_time = 6
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/78bb151e26328b3d06559.jpg"
-file2 = "https://telegra.ph/file/78bb151e26328b3d06559.jpg"
-file3 = "https://telegra.ph/file/78bb151e26328b3d06559.jpg"
-file4 = "https://telegra.ph/file/78bb151e26328b3d06559.jpg"
+file1 = "https://telegra.ph/file/1c2c89739d6ebc15c21bf.jpg"
+file2 = "https://telegra.ph/file/1c2c89739d6ebc15c21bf.jpg"
+file3 = "https://telegra.ph/file/1c2c89739d6ebc15c21bf.jpg"
+file4 = "https://telegra.ph/file/1c2c89739d6ebc15c21bf.jpg"
 """ =======================CONSTANTS====================== """
 pm_caption = "  **🔥🔥ˢᴴᴬᴺᴬʸᴬ ＩＳ  ΛＬＩＶΣ🔥🔥**\n\n"
 
