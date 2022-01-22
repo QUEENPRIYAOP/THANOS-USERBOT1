@@ -143,6 +143,7 @@ if ENV:
         ALIVE_MSG = os.environ.get("ALIVE_MSG", None)
         HELP_PIC = os.environ.get("HELP_PIC", None)
         BOT_PIC = os.environ.get("BOT_PIC", None)
+        PING_PIC = os.environ.get("PING_PIC", None)
         #auto bio
         BIO_MSG = os.environ.get("BIO_MSG", None)
         #Lydia API
