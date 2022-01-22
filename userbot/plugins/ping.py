@@ -1,7 +1,6 @@
 import asyncio
 from datetime import datetime
 
-from .. import ALIVE_NAME, PING_PIC
 from ..cmdhelp import CmdHelp
 from ..utils import admin_cmd, edit_or_reply, sudo_cmd
 
